@@ -9,3 +9,7 @@ O Smart Contract foi publicado na rede de testes Rinkeby e localizado no endere�
 ## ReceberFundos
 Aplicação que permite que o contrato receba fundos de investimentos.
 Para alguém mudar o nome do contrato é preciso fazer um aporte mínimo de 1 ETH, caso contrário, será exibida mensagem de ValorInsuficiente.
+
+## ControlePonto e ControlePonto_V2
+Aplicação que permite que o registro de ponto de funcionário.
+

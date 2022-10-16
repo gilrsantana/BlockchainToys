@@ -17,4 +17,4 @@ Aplicação que permite que o registro de ponto de funcionário.
 Criação da criptomoeda DIO Coin utilizando as especificações do protocolo ERC20.
 
 ## PokeDIO
-Criação de jogo de batalha de Pokemons com NFT utilizando a biblioteca Open Zeppelin para utilizaç
+Criação de jogo de batalha de Pokemons com NFT utilizando a biblioteca Open Zeppelin para utilização de smart contract no padrão ERC721.

@@ -13,3 +13,8 @@ Para alguém mudar o nome do contrato é preciso fazer um aporte mínimo de 1 ET
 ## ControlePonto e ControlePonto_V2
 Aplicação que permite que o registro de ponto de funcionário.
 
+## DioCoin
+Criação da criptomoeda DIO Coin utilizando as especificações do protocolo ERC20.
+
+## PokeDIO
+Criação de jogo de batalha de Pokemons com NFT utilizando a biblioteca Open Zeppelin para utilizaç
